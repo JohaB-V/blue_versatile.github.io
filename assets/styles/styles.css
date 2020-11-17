@@ -17,7 +17,11 @@ blue{
 }
 .img-product{
     width: 100%;
-    height: 15rem;
+    height: 20vw;
+}
+.header-img{
+    width:100%; 
+    height:70vh;
 }
 @media (max-width: 992px) {
     .flower-logo{
@@ -29,6 +33,7 @@ blue{
         width: 100%;
         height: 30rem;
     }
+   
   
   }
   @media (max-width: 680px) {
@@ -39,7 +44,7 @@ blue{
     }
     .img-product{
         width: 100%;
-        height: 40rem;
+        height: 100vh;
     }
     .w3-col.s6 {
         width: 99.99999%;
@@ -53,13 +58,16 @@ blue{
     }
     .img-product{
         width: 100%;
-        height: 20rem;
+        height: 100vw;
     }
     .w3-col.s6 {
         width: 99.99999%;
         
     }
-    
+    .header-img{
+        width:100%; 
+        height:60vw;
+    }
   }
   .container{
       border-bottom: solid 3px black;
