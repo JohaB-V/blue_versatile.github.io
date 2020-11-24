@@ -26,7 +26,7 @@ var clothes = {
             },{
                 id:"3",
                 title:"Tie Dye lila",
-                src:"./assets/static/shirts/Tie Dye lila.jpg",
+                src:"./assets/static/shirts/Tie_Dye_Lila.jpeg",
                 offert: false,
                 new:false,
                 color1: "",
@@ -433,7 +433,7 @@ var clothes = {
             },{
                 id:"2",
                 title:"Camiseta corazón",
-                src:"./assets/static/shirts/Camiseta_corazón.jpg",
+                src:"./assets/static/shirts/Camiseta corazón.jpg",
                 offert: false,
                 new:false,
                 color1: "",
@@ -650,7 +650,7 @@ var clothes = {
             },{
                 id:"4",
                 title:"Camiseta Agüita salada",
-                src:"./assets/static/shirts/Camiseta_ Agüita salada.jpg",
+                src:"./assets/static/shirts/Camiseta_ Aguita salada.jpg",
                 offert: false,
                 new:false,
                 color1: "",
