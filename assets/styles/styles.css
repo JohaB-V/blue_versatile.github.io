@@ -105,6 +105,14 @@ blue{
         font-size: 4vw;
         
     }
+    .wp{
+        color: white;
+        font-size: 8vw;
+        border-radius: 0px 10px 0px 0px;
+        padding: 3%;
+    
+       
+    }
   }
   
   .container{
