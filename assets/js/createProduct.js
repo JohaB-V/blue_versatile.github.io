@@ -14,7 +14,7 @@ const createProduct = (shirt) => {
           <span class="w3-tag w3-display-topleft">New</span>
           <span class="w3-tag w3-display-bottomright">OverSize T : S/M</span>
           <div class="w3-tag w3-display-bottomleft w3-display-hover wp"> 
-          <a href="https://api.whatsapp.com/send?phone=573042886154&text=%C2%A1Hola!!!!%20d%C3%ADas%20 Estoy interesado en la ${shirt.title}%20
+          <a href="https://api.whatsapp.com/send?phone=573042886154&text=%C2%A1Hola! Estoy interesado en la ${shirt.title}%20 me puedas dar mas info! 
           "><i class="fa fa-whatsapp"></i></a>
   
           
