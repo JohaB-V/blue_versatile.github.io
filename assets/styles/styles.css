@@ -17,12 +17,26 @@ blue{
 }
 .img-product{
     width: 100%;
-    height: 20vw;
+    height: 25vw;
 }
 .header-img{
     width:100%; 
     height:70vh;
 }
+.title-section{
+    color: black;
+    font-size: 2.5vw;
+    border-bottom: solid 1px black;
+}
+.title-product{
+    color: black;
+
+}
+.footer-text{
+    text-align: center; 
+    font-size: 2vw; 
+    font-weight: lighter;
+  }
 @media (max-width: 992px) {
     .flower-logo{
         position: relative;
@@ -32,6 +46,12 @@ blue{
     .img-product{
         width: 100%;
         height: 30rem;
+    }
+    .title-section{
+        color: black;
+        padding-left: 20px;
+        font-size: 4.5vw;
+        border-bottom: solid 1px black;
     }
    
   
@@ -49,6 +69,12 @@ blue{
     .w3-col.s6 {
         width: 99.99999%;
         
+    }
+    .title-section{
+        color: black;
+        padding-left: 20px;
+        font-size: 6.5vw;
+        border-bottom: solid 1px black;
     }
   
   }
@@ -68,7 +94,18 @@ blue{
         width:100%; 
         height:60vw;
     }
+    .title-section{
+        color: black;
+        padding-left: 20px;
+        font-size: 6.5vw;
+        border-bottom: solid 1px black;
+    }
+    .footer-text{
+        font-size: 4vw;
+        
+    }
   }
+  
   .container{
       border-bottom: solid 3px black;
   }
