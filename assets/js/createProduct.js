@@ -12,7 +12,7 @@ const createProduct = (shirt) => {
         <div class="w3-display-container">
           <img src="${shirt.src}" class="img-product">
           <span class="w3-tag w3-display-topleft">New</span>
-          <span class="w3-tag w3-display-topright">OverSize</span>
+          <span class="w3-tag w3-display-bottomright">OverSize T : S/M</span>
           <div class="w3-display-middle w3-display-hover">
           </div>
         </div>
