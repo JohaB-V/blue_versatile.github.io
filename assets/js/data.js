@@ -71,7 +71,7 @@ var clothes = {
                 new:false,
                 color1: "",
                 color2: "",
-                price:"26.000"
+                price:"33.000"
     
             },
     
